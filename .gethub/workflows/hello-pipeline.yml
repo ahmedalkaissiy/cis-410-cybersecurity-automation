@@ -55,7 +55,7 @@ jobs:
         run: |
           echo '=== DEPLOY STAGE ==='
           echo 'Real deployment added in Week 3 (Docker + Dev VM + SSH)'
-          echo 'Pipeline completed successfully!'
+          echo "Pipeline completed successfully!!"
 
 
 
